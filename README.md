@@ -1,2 +1,10 @@
-Temporal Evolution-Aware Network with Spatial Guidance for Dim and Small Space Target Detection
-Chunxu Ren, Weihua Gao, Yanzhao Li, Wenlong Niu, Yun Li, Jie Tang, Xiaodong Peng
+@ARTICLE{11226863,
+  author={Ren, Chunxu and Gao, Weihua and Li, Yanzhao and Niu, Wenlong and Li, Yun and Tang, Jie and Peng, Xiaodong},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Temporal Evolution-Aware Network with Spatial Guidance for Dim and Small Space Target Detection}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-21},
+  keywords={Feature extraction;Space vehicles;Object detection;Clutter;Spatiotemporal phenomena;Aerospace electronics;Stars;Signal to noise ratio;Logic gates;Accuracy;Complex deep-space exploration scenarios;dim and small space target detection;spatiotemporal feature modeling;temporal evolution},
+  doi={10.1109/JSTARS.2025.3629115}}
